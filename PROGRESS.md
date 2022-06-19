@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 06/07/2022
 
 1) Tour of Heroes tutorial
@@ -286,15 +285,18 @@ Error: 1) Can't push ref to remote. Try running 'Pull' first to integrate your c
        Solved all the errors by google search and implementing them.
        
 06/16/2022
+
     a) Gone through the link https://www.classcentral.com/course/learning-how-to-learn-2161
     b) Read toh-part5
     c) Made little progress but still facing few errors
 
 06/17/2022
+
     a) Read https://www.typescriptlang.org/docs/handbook/classes.html
     b) Working on solving errors while making few modification to create intance of class.
 
 06/18/2022
+
     a) Completed the given task successfully.
 
 >>>>>>> d4af0c165888fcac3d4f9f9d78ff573831051cab
