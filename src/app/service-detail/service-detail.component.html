@@ -1,0 +1,9 @@
+<div *ngIf="service">
+    <h2>{{service.name | uppercase}} Details</h2>
+    <div><span>id: </span>{{service.id}}</div>
+    <div>
+      <label for="service-name">Service Instance 1 </label>
+      <input id="service-name" [(ngModel)]="service.name" placeholder="Service name"/>
+    </div>
+    <button type="button" (click)="goBack()">go back</button>
+  </div>

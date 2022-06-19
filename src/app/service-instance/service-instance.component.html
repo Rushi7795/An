@@ -1,0 +1,9 @@
+<ul class="ss">
+  <li *ngFor="let service of ss">
+    <a routerLink="/detail/{{service.id}}">
+      <span class="badge">{{service.id}}</span> {{service.name}}
+    </a>
+    <button type="button" class="delete" title="Delete here" style="display:inline;"
+      (click)="$event.stopPropagation();delete(service);">x</button>
+  </li>
+</ul>

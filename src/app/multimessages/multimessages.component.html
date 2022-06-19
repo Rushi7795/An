@@ -1,0 +1,6 @@
+<div *ngIf="mulmessageService.multimessages.length">
+    <h2>multimessages</h2>
+    <button type="button" class="clear" (click)="mulmessageService.clear()">Clear multimessages</button>
+    <div *ngFor="let message of mulmessageService.multimessages"></div>
+
+</div>
