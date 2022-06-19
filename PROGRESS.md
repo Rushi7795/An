@@ -298,4 +298,3 @@ Error: 1) Can't push ref to remote. Try running 'Pull' first to integrate your c
 
     a) Completed the given task successfully.
 
->>>>>>> d4af0c165888fcac3d4f9f9d78ff573831051cab
